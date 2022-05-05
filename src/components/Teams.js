@@ -13,6 +13,7 @@ const Teams = ({darkMode }) => {
               data-target="#exampleModal"
             >
               <a
+              href="/#"
                 data-toggle="tooltip"
                 data-placement="top"
                 title="All information regarding you becoming part of our family"
@@ -28,6 +29,7 @@ const Teams = ({darkMode }) => {
               data-target="#exampleModal"
             >
               <a
+              href="/#"
                 data-toggle="tooltip"
                 data-placement="top"
                 title="When your event and our is not clashing!"

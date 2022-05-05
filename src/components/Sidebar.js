@@ -7,7 +7,7 @@ const Sidebar = ({darkMode}) => {
     const [click_num, setClick] = useState(0);
     const [visible, setVisible] = React.useState(true);
 
-    const toggleSideNav = ({}) => {
+    const toggleSideNav = () => {
         if(click_num===0){
             setWid("6%")
             setClick(1)

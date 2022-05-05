@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import {createBrowserHistory} from 'history';
-import { useNavigate } from "react-router-dom";
 import {Link} from "react-router-dom";
 
 
@@ -9,8 +7,6 @@ import {Link} from "react-router-dom";
 const StepOne = ({ nextStep, handleFormData, values, darkMode, showAlert}) => {
 
   const [error, setError] = useState(false);
-  const browserHistory = createBrowserHistory();
-  const navigate = useNavigate();
   // after form submit validating the form data using validator
   const submitFormData = (e) => {
 

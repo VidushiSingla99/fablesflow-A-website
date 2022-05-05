@@ -37,9 +37,9 @@ const Events = () => {
               </span>
             </div>
             <div className="d-flex justify-content-around p-4">
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
             </div>
           </div>
         );
@@ -70,9 +70,9 @@ const Events = () => {
               </span>
             </div>
             <div className="d-flex justify-content-around p-4">
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU="/>
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU="/>
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
             </div>
           </div>
         );
@@ -103,9 +103,9 @@ const Events = () => {
               </span>
             </div>
             <div className="d-flex justify-content-around p-4">
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
             </div>
           </div>
         );
@@ -117,7 +117,7 @@ const Events = () => {
   return (
     <div>
       <div className="image">
-        <img className="head-im" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+        <img alt="art-web" className="head-im" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
         <h2 className="image-overlay offset-lg-3">
           <span>Art Helps Us: MOVE</span>
         </h2>
@@ -138,8 +138,6 @@ const Events = () => {
             onChange={handleSelectChange}
             className="pt-1 pb-1 col-2 opacity-6"
           >
-            {" "}
-            //set value here
             <option value="0">ACTING</option>
             <option value="1">DIRECTION</option>
             <option value="2">CINEMATOGRAPHY</option>

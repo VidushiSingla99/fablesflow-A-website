@@ -6,7 +6,7 @@ const Navbar = ({ setDarkMode, darkMode }) => {
   return (
     <div>
       <div class="intro bg-1 p-5">Do you want to know about us? <i>Tap our pictures</i></div>
-      <img
+      <img alt="art"
         className="col-4 offset-lg-2 pt-4 h-320"
         src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU="
         data-toggle="collapse"
@@ -16,6 +16,7 @@ const Navbar = ({ setDarkMode, darkMode }) => {
         aria-controls="collapseExample"
       ></img>
       <img
+      alt="art"
         className="col-4 pt-4 h-320"
         src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU="
         data-toggle="collapse"

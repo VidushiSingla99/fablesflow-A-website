@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
-import { useState } from "react";
+import React, { useState } from "react";
 import StepOne from "./components/StepOne";
 import StepTwo from "./components/StepTwo";
 import Final from "./components/Final";
@@ -63,7 +63,7 @@ function App() {
     <div className={darkMode ? "bg-color-dark font-white" : "bg-color"}>
       <Navbar setDarkMode={setDarkMode} darkMode={darkMode} />
       <Alert alert={alert} />
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Sidebar darkMode={darkMode} />
         <Routes>
           <Route path="/" element={<About />} />
