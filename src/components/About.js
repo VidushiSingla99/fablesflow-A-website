@@ -18,7 +18,7 @@ const Navbar = ({ setDarkMode, darkMode }) => {
       <img
       alt="art"
         className="col-4 pt-4 h-320"
-        src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU="
+        src="https://media.istockphoto.com/photos/man-working-online-at-home-on-a-laptop-picture-id1149033316?k=20&m=1149033316&s=612x612&w=0&h=0v6XVdSMXXzAWgnmx_YA2UkAzYkCMJFRM8NbFrgW-NE="
         data-toggle="collapse"
         href="#collapseExample2"
         role="button"

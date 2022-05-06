@@ -8,6 +8,9 @@
   color:#fff !important;
 }
 
+.card-body{
+  color: #000000 !important;
+}
 .app-header{
   background-color: #20B2AA !important;
   color: #000000;
@@ -45,6 +48,16 @@
   color: #fff;
 }
 
+.events-mode{
+ z-index: 1;
+
+}
+.events-mode-dark{
+  position: relative;
+  background-color:rgba(0, 0, 0, 0.8);
+  color: #fff;
+}
+
 .form-header{
   font-size: 23px;
 }
@@ -67,6 +80,7 @@
   width: max-content;
   height: 100vh;
   position: absolute;
+  z-index: 1;
 }
 
 .toggle-button{
@@ -221,6 +235,7 @@ background-color: rgba(32,178,170,0.2);
   font-size: 65px;
   text-align: center;
   text-shadow: #20B2AA;
+  color: black !important;
 }
 
 .h-320{
@@ -231,6 +246,7 @@ background-color: rgba(32,178,170,0.2);
   text-decoration: underline;
   font-size: 17px;
   text-align: center;
+  color: black !important;
 }
 
 .modal-button{

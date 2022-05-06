@@ -60,13 +60,14 @@ function App() {
   // switch (step) {
   //   case 1:
   return (
-    <div className={darkMode ? "bg-color-dark font-white" : "bg-color"}>
+    <div className={darkMode ? "bg-color-dark font-white" : "bg-color "}>
       <Navbar setDarkMode={setDarkMode} darkMode={darkMode} />
       <Alert alert={alert} />
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Sidebar darkMode={darkMode} />
         <Routes>
-          <Route path="/" element={<About />} />
+          <Route path="/" element={<Teams />} />
+          <Route path="/About" element={<About />} />
           <Route
             path="/StepOne"
             element={

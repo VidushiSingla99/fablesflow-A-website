@@ -24,7 +24,7 @@ const Sidebar = ({darkMode}) => {
                <div className='d-flex justify-content-end'>
                <button className="toggle-button mt-3 p-3" onClick={toggleSideNav}></button>
                </div>
-                <Link className={darkMode ? 'nav-pointer-dark mt-3 p-1':'nav-pointer mt-3 p-1'} to="/"><div className= {visible ? 'element-visible' : 'element-hidden'}>WHO ARE WE?</div></Link>
+                <Link className={darkMode ? 'nav-pointer-dark mt-3 p-1':'nav-pointer mt-3 p-1'} to="/About"><div className= {visible ? 'element-visible' : 'element-hidden'}>WHO ARE WE?</div></Link>
                 <Link className={darkMode ? 'nav-pointer-dark mt-3 p-1':'nav-pointer mt-3 p-1'} to="/events"><div className= {visible ? 'element-visible' : 'element-hidden'}>EVENTS</div></Link>
                 <Link className={darkMode ? 'nav-pointer-dark mt-3 p-1':'nav-pointer mt-3 p-1'} to="/StepOne"><div className= {visible ? 'element-visible' : 'element-hidden'}>DO WANT TO JOIN US?</div></Link>
                 <Link className={darkMode ? 'nav-pointer-dark mt-3 p-1':'nav-pointer mt-3 p-1'} to="/Teams"><div className= {visible ? 'element-visible' : 'element-hidden'}>INFORMATION</div></Link>

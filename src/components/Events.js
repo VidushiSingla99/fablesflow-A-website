@@ -117,7 +117,7 @@ const Events = () => {
   return (
     <div>
       <div className="image">
-        <img alt="art-web" className="head-im" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+        <img alt="art-web" className="head-im" src="https://assets.visitmilwaukee.org/visitmke/media/global/Partner%20Images/Gallery%20Size/VM-MilwaukeeRepertoryTheater-Performance2.jpg?ext=.jpg&mode=crop&width=1920&height=1080&scale=both" />
         <h2 className="image-overlay offset-lg-3">
           <span>Art Helps Us: MOVE</span>
         </h2>

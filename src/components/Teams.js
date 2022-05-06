@@ -13,7 +13,7 @@ const Teams = ({darkMode }) => {
               data-target="#exampleModal"
             >
               <a
-              href="/#"
+              href="#exampleModal"
                 data-toggle="tooltip"
                 data-placement="top"
                 title="All information regarding you becoming part of our family"
