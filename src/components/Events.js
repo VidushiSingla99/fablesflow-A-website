@@ -37,9 +37,9 @@ const Events = () => {
               </span>
             </div>
             <div className="d-flex justify-content-around p-4">
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
+              <img alt="art-web" className="col-4" src="https://www.allaboutcareers.com/wp-content/uploads/2020/11/acting-job-description.jpg" />
+              <img alt="art-web" className="col-4" src="https://www.nycastings.com/wp-content/uploads/2015/09/movie.jpg" />
+              <img alt="art-web" className="col-4" src="https://www.stagemilk.com/wp-content/uploads/2016/04/theatre.jpeg" />
             </div>
           </div>
         );
@@ -70,10 +70,10 @@ const Events = () => {
               </span>
             </div>
             <div className="d-flex justify-content-around p-4">
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU="/>
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-            </div>
+            <img alt="art-web" className="col-4" src="https://www.allaboutcareers.com/wp-content/uploads/2020/11/acting-job-description.jpg" />
+              <img alt="art-web" className="col-4" src="https://www.nycastings.com/wp-content/uploads/2015/09/movie.jpg" />
+              <img alt="art-web" className="col-4" src="https://www.stagemilk.com/wp-content/uploads/2016/04/theatre.jpeg" />
+              </div>
           </div>
         );
       case "2":
@@ -103,10 +103,10 @@ const Events = () => {
               </span>
             </div>
             <div className="d-flex justify-content-around p-4">
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-              <img alt="art-web" className="col-4" src="https://media.istockphoto.com/photos/portrait-young-asian-businesswoman-holding-tabletsmartphone-in-formal-picture-id994751270?b=1&k=20&m=994751270&s=170667a&w=0&h=SGwZdYWzpyhbQpiAIBCMXmN7ZGid3G5RbdKG_qfarYU=" />
-            </div>
+            <img alt="art-web" className="col-4" src="https://www.allaboutcareers.com/wp-content/uploads/2020/11/acting-job-description.jpg" />
+              <img alt="art-web" className="col-4" src="https://www.nycastings.com/wp-content/uploads/2015/09/movie.jpg" />
+              <img alt="art-web" className="col-4" src="https://www.stagemilk.com/wp-content/uploads/2016/04/theatre.jpeg" />
+                </div>
           </div>
         );
       default:
