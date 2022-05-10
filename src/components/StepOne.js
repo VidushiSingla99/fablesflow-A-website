@@ -27,7 +27,7 @@ const StepOne = ({ nextStep, handleFormData, values, darkMode, showAlert}) => {
     }
   };
   return (
-    <div className= {darkMode ? 'entry-form-dark col-8 offset-lg-3 mt-5' : "entry-form col-8 offset-lg-3 mt-5"}>
+    <div className= {darkMode ? 'entry-form-dark col-8 offset-lg-1 mt-5' : "entry-form col-8 offset-lg-1 mt-5"}>
       <div className="form-header py-3">We want to know you better</div>
       <form onSubmit={submitFormData}>
         <div className="form-group">

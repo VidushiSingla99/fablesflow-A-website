@@ -6,7 +6,7 @@ const Final = ({ prevStep, values, darkMode }) => {
   const { email, city, passion, experience, director, actor, cinematographer, film, miscellaneous } = values;
   return (
     <>
-    <div className= {darkMode ? 'entry-form-dark col-8 offset-lg-3 mt-5' : "entry-form col-8 offset-lg-3 mt-5"}>
+    <div className= {darkMode ? 'entry-form-dark col-8 offset-lg-1 mt-5' : "entry-form col-8 offset-lg-1 mt-5"}>
           <p>
             <strong>Email :</strong> {email}{" "}
           </p>
