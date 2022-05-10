@@ -115,7 +115,7 @@ const Events = () => {
   }
 
   return (
-    <div>
+    <div className="col-10">
       <div className="image">
         <img alt="art-web" className="head-im" src="https://assets.visitmilwaukee.org/visitmke/media/global/Partner%20Images/Gallery%20Size/VM-MilwaukeeRepertoryTheater-Performance2.jpg?ext=.jpg&mode=crop&width=1920&height=1080&scale=both" />
         <h2 className="image-overlay offset-lg-3">

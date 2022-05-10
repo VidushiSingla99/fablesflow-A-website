@@ -2,9 +2,9 @@ import React from "react";
 
 const Teams = ({darkMode }) => {
   return (
-    <div className={darkMode ? 'teams' :"teams"}>
-      <div className="d-flex">
-        <div className="offset-lg-2 col-7">
+    <div className={darkMode ? 'teams col-9' :"teams col-9"}>
+      <div className="row">
+        <div className="col-9">
           <div className="pt-4 d-flex justify-content-between">
             <span
               type="button"
@@ -157,14 +157,14 @@ const Teams = ({darkMode }) => {
         </div>
 
         <div className="col-3 pt-3">
-          <div className="blog-header offset-lg-3 pb-2">Schedules</div>
+          <div className="blog-header offset-lg-3 pb-1">Schedules</div>
           <i>
             For all the courses, in weekdays students can enroll for 3 classes,
             and for weekends 2 classes
           </i>
-          <div className="offset-lg-1">
+          <div>
             <div className="d-flex align-items-baseline">
-              <div className="modal-button weekday mt-5 w-fit p-2 m-1 mb-3">
+              <div className="modal-button weekday mt-5 w-fit p-1 m-1 mb-3">
                 Weekday-1
               </div>
               <div className="click-to-edit">
@@ -212,14 +212,7 @@ const Teams = ({darkMode }) => {
                 Excepteur sint occaecat cupidatat non proident
               </div>
             </div>
-            <div className="d-flex align-items-baseline">
-              <div className="modal-button weekday w-fit p-2 m-1 mb-3">
-              Weekend-2
-              </div>
-              <div className="click-to-edit">
-                Excepteur sint occaecat cupidatat non proident
-              </div>
-            </div>
+
 
           </div>
         </div>

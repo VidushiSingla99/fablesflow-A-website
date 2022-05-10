@@ -60,8 +60,9 @@ function App() {
   // switch (step) {
   //   case 1:
   return (
-    <div className={darkMode ? "bg-color-dark font-white" : "bg-color "}>
+    <div className={darkMode ? "bg-color-dark font-white" : "bg-color"}>
       <Navbar setDarkMode={setDarkMode} darkMode={darkMode} />
+      <div className="row">
       <Alert alert={alert} />
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Sidebar darkMode={darkMode} />
@@ -107,6 +108,7 @@ function App() {
           <Route path="/Teams" element={<Teams  darkMode={darkMode}/>} />
         </Routes>
       </BrowserRouter>
+    </div>
     </div>
   );
 
