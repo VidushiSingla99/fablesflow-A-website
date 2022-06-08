@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 
   //creating error state for validation
 
-const StepOne = ({ nextStep, handleFormData, values, darkMode, showAlert}) => {
+const StepOne = ({ nextStep, handleFormData, values, darkMode}) => {
 
   const [error, setError] = useState(false);
   // after form submit validating the form data using validator
@@ -19,7 +19,7 @@ const StepOne = ({ nextStep, handleFormData, values, darkMode, showAlert}) => {
       values.passion!==""&&
       values.experience!==""
     ) {
-      showAlert("  Step 1 of the form completed","success");
+
       nextStep();
 
     } else {
